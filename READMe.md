@@ -1,7 +1,7 @@
 <h1 align="center">🥔 PotatoTroll — Professional Button Clicker & Code Summoner</h1>
 
 <p align="center">
-  <img src="[https://media1.tenor.com/m/AZl4P52ZSfQAAAAd/cat-coding.gif](https://media1.tenor.com/m/AZl4P52ZSfQAAAAd/cat-coding.gif)" width="300"/>
+  <img src="https://i.giphy.com/3oKIPnAiaMCws8nOsE.webp" width="300"/>
 </p>
 
 <p align="center"><em>“I write code the same way I live life: confused but committed.”</em></p>
@@ -100,7 +100,7 @@ Proceed with caution.
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/vN8uvkz0PZMAAAAC/monkey-typing.gif" width="250"/>
+  <img src="[https://media.tenor.com/vN8uvkz0PZMAAAAC/monkey-typing.gif](https://lukemonet.wordpress.com/wp-content/uploads/2014/03/output_kkne5a-1.gif?w=300)" width="250"/>
 </p>
 
 ---
