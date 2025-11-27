@@ -96,11 +96,7 @@ Proceed with caution.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PotatoTrollVn&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/oSV2fbYggsUAAAAi/crypto-work.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/PotatoTrollVn/PotatoTrollVn/refs/heads/main/github-user-contribution.svg" width="250"/>
 </p>
 
 ---
