@@ -100,7 +100,7 @@ Proceed with caution.
 </p>
 
 <p align="center">
-  <img src="[https://media.tenor.com/vN8uvkz0PZMAAAAC/monkey-typing.gif](https://lukemonet.wordpress.com/wp-content/uploads/2014/03/output_kkne5a-1.gif?w=300)" width="250"/>
+  <img src="https://lukemonet.wordpress.com/wp-content/uploads/2014/03/output_kkne5a-1.gif" width="250"/>
 </p>
 
 ---
