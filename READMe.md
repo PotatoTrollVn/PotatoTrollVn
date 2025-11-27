@@ -1,7 +1,7 @@
 <h1 align="center">🥔 PotatoTroll — Professional Button Clicker & Code Summoner</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/AZl4P52ZSfQAAAAd/cat-coding.gif" width="300"/>
+  <img src="[https://media1.tenor.com/m/AZl4P52ZSfQAAAAd/cat-coding.gif](https://media1.tenor.com/m/AZl4P52ZSfQAAAAd/cat-coding.gif)" width="300"/>
 </p>
 
 <p align="center"><em>“I write code the same way I live life: confused but committed.”</em></p>
