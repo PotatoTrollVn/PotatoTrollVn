@@ -96,7 +96,7 @@ Proceed with caution.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PotatoTrollVn/PotatoTrollVn/refs/heads/main/github-user-contribution.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/PotatoTrollVn/PotatoTrollVn/refs/heads/main/github-user-contribution.svg" width="600"/>
 </p>
 
 ---
