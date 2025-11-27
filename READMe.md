@@ -100,7 +100,7 @@ Proceed with caution.
 </p>
 
 <p align="center">
-  <img src="https://lukemonet.wordpress.com/wp-content/uploads/2014/03/output_kkne5a-1.gif" width="250"/>
+  <img src="[monkeytyping.gif](https://camo.githubusercontent.com/145dfbffdd6dff12eb3d448643509cd7d98362200d1f3e0d93ce01cf123748fc/68747470733a2f2f6c756b656d6f6e65742e776f726470726573732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30332f6f75747075745f6b6b6e6535612d312e676966)" width="250"/>
 </p>
 
 ---
